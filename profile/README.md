@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.bsidesbialystok.pl/assets/images/BIA_logo.svg" alt="BSides Białystok logo" width="140" />
+  <img src="../Background-Bia-logo.png" alt="BSides Białystok logo" width="140" />
 
   # BSides Białystok
 
